@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: nginx
-          image: dmytro1710/webapp:1.0.0
+          image: dmytro1710/webapp:1.0.1
           ports:
             - containerPort: 80
           resources:
